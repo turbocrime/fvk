@@ -1,0 +1,18 @@
+{
+  "name": "fvk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@penumbra-zone/bech32m": "^5.0.0",
+    "@types/node": "^20.14.2",
+    "tsx": "^4.15.2"
+  }
+}
